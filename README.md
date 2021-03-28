@@ -1,5 +1,6 @@
 <h1 align="center">Faus' slstatus build</h1>
-## See [/fausb/dwm](https://github.com/fausb/dwm)
+
+> See [/fausb/dwm](https://github.com/fausb/dwm)
 
 ## Installation
 
